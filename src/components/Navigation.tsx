@@ -239,7 +239,7 @@ export const navigation: Array<NavGroup> = [
       { title: 'Wykład 3. Społeczeństwo', href: '/socjologia-wyklad-3' },
       { title: 'Wykład 4. Socjalizacja', href: '/socjologia-wyklad-4' },
       { title: 'Wykład 5. Zróżnicowanie i nierówności', href: '/socjologia-wyklad-5' },
-      { title: 'Wykład 6. Zmiana społeczna.pptx', href: '/socjologia-wyklad-6' },
+      // { title: 'Wykład 6. Zmiana społeczna.pptx', href: '/socjologia-wyklad-6' },
     ],
   },
   // {
